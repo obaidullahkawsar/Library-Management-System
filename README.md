@@ -94,6 +94,7 @@ This is a commercial (paid) library management system.
 For licensing, purchase, or demo inquiries, please contact:
 
 👨‍💻 Developer: Obaidullah Kawsar
+
 📧 Email: obaidullahkawsar@gmail.com
 
 📱 WhatsApp: +93 774 346 205
