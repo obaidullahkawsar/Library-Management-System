@@ -84,3 +84,16 @@ An advanced and fully-featured **Library Management System** developed in **C# (
 | Database         | Microsoft SQL Server |
 | Reports          | RDLC / Custom Reporting |
 | Export Formats   | Excel, PDF           |
+
+
+---
+
+📬 Contact & Licensing
+
+This is a commercial (paid) library management system.
+For licensing, purchase, or demo inquiries, please contact:
+
+👨‍💻 Developer: Obaidullah Kawsar
+📧 Email: obaidullahkawsar@gmail.com
+
+📱 WhatsApp: +93 774 346 205
